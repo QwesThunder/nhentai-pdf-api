@@ -1,1 +1,1 @@
-npm install && npm i && node index.js
+worker : npm install && npm i && node index.js
